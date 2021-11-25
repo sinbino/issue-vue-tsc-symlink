@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "typescript": "^4.5.2",
+    "vue-tsc": "^0.29.6"
+  }
+}
